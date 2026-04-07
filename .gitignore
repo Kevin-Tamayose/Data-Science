@@ -3,3 +3,5 @@
 data/*.zip
 data/sav
 data/parquet
+
+test.py
